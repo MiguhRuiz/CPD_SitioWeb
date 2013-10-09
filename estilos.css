@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Burbank';
+    src: url('burbankbigwide-bold.eot');
+    src: url('burbankbigwide-bold.eot') format('embedded-opentype'),
+         url('burbankbigwide-bold.woff') format('woff'),
+         url('burbankbigwide-bold.ttf') format('truetype'),
+         url('burbankbigwide-bold.svg#BurbankBigWideBold') format('svg');
+}
+body{
+	background-color: #00cccc;
+	font-family: "Burbank";
+	font-size: 16px;
+}
+h3{
+	font-family: "Burbank";
+}
+.footer{
+	font-family: helvetica;
+}
